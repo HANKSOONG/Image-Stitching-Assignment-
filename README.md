@@ -116,14 +116,14 @@ Displayed for non-commercial, educational purposes only.
 ---
 
 ## 📂 Project Structure
-
+```
 image-stitching/
 ├── main.ipynb         # End-to-end Harris + SIFT + RANSAC pipeline
 ├── results/           # Graphs and evaluation visualizations
 ├── figures/           # All stitched results and original input images
 ├── README.md          # Project description and usage guide
 └── requirements.txt   # Python dependencies
-
+```
 
 ---
 
