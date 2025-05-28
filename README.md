@@ -2,12 +2,12 @@
 
 This project implements a full image stitching pipeline using classical computer vision techniques:
 
-- 🧠 Harris Corner Detection
-- 🧬 SIFT Descriptor Extraction
-- 📏 Descriptor Matching with Normalized Correlation & Euclidean Distance
-- 🎯 Match Filtering via Lowe’s Ratio Test
-- 🧭 Affine Transformation Estimation using RANSAC
-- 🖼️ Warping and Overlay-based Stitching on a Shared Canvas
+- Harris Corner Detection
+- SIFT Descriptor Extraction
+- Descriptor Matching with Normalized Correlation & Euclidean Distance
+- Match Filtering via Lowe’s Ratio Test
+- Affine Transformation Estimation using RANSAC
+- Warping and Overlay-based Stitching on a Shared Canvas
 
 Developed in Python using OpenCV and NumPy.  
 Final evaluation includes qualitative results across diverse image categories and a parameter sensitivity analysis.
