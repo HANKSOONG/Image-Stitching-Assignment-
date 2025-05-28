@@ -49,7 +49,7 @@ Displayed for non-commercial, educational purposes only.
 
 ### Ratio Threshold vs. Residual / Inlier Count
 
-![Threshold Graphs](figures/ratio_sensitivity.png)
+![Threshold Graphs](results/Ratio_ThresholdvsAverage_Residual&Inlier_Count.png)
 
 - Trade-off identified around 0.7–0.8  
 - Lower ratio = cleaner matches, higher precision  
